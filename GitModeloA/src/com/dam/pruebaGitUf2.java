@@ -4,7 +4,7 @@ public class pruebaGitUf2 {
 
 	public static void main(String[] args) {
 		System.out.println("Conflicto ok");
-		System.out.println("FIN")
+		System.out.println("FIN");
 	}
 
 }
